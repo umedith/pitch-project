@@ -39,6 +39,10 @@ The program lets a user publish a pitch
 - postgres
 - pip
 
+## live site 
+
+You can find the application live on eddypithch.herokuapp.com/
+
 ## Known Bugs
 
  none

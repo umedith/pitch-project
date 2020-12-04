@@ -41,7 +41,7 @@ The program lets a user publish a pitch
 
 ## live site 
 
-You can find the application live on eddypithch.herokuapp.com/
+You can find the application live on  https://eddypithch.herokuapp.com/ 
 
 ## Known Bugs
 
